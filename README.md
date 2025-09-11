@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nneka Udoye - Senior Salesforce & FSL Administrator</title>
+    <title>Winifred Udoye - Senior Salesforce & FSL Administrator</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
     <style>
@@ -684,7 +684,7 @@
 <body>
     <header class="header">
         <div class="container">
-            <div class="logo">Nneka Udoye</div>
+            <div class="logo">Winifred Udoye</div>
             <nav>
                 <ul class="nav-links">
                     <li><a href="#about">About</a></li>
@@ -701,7 +701,7 @@
 
     <section id="about" class="about-hero">
         <div class="container">
-            <img src="https://i.ibb.co/6y40F2S/Nneka-Udoye.jpg" alt="winifred Udoye - Senior Salesforce & FSL Administrator" class="profile-pic">
+            <img src="https://i.ibb.co/6y40F2S/Winifred-Udoye.jpg" alt="Winifred Udoye - Senior Salesforce & FSL Administrator" class="profile-pic">
             <h1>Winifred Udoye</h1>
             <p class="hero-subtitle">Senior Salesforce Administrator & Field Service (FSL) Specialist</p>
             <p>
